@@ -1,0 +1,26 @@
+.html,
+.css,
+.php,
+.js {
+    text-transform: uppercase;
+}
+
+.html {
+    color: red;
+}
+
+.css {
+    color: green
+}
+
+.php {
+    color: blue;
+}
+
+.js {
+    color: yellow;
+}
+
+li {
+    list-style-type: none;
+}
